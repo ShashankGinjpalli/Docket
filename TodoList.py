@@ -1,6 +1,5 @@
 
 
-
 todo = []
 
 f = open("todo.txt", "r+")
