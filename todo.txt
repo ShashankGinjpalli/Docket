@@ -1,4 +1,0 @@
-a,b
-cd,d
-e,f
-wer,erw
